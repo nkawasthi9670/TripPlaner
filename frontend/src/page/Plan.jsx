@@ -18,7 +18,7 @@ const Plan = ({ mode, toggleMode }) => {
   const handleContinue = async () => {
     try {
       // API call to save the plan
-      const response = await axios.post('http://localhost:5000/api/plan', {
+      const response = await axios.post('https://tripplaner-mggv.onrender.com/api/plan', {
         location,
         duration,
         travelGroup,
