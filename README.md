@@ -1,5 +1,5 @@
  TripPlaner
- TripPlaner
+
 
 TripPlaner is a travel planning web application that helps users create personalized travel plans based on their preferences. Built with **React.js** and Tailwind CSS on the frontend, and Node.js on the backend, this project dynamically generates travel suggestions based on user inputs.
 
