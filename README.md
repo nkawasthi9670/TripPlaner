@@ -7,9 +7,9 @@ TripPlaner is a travel planning web application that helps users create personal
 
  Project Structure
 
-Frontend: React.js + Tailwind CSS
-Backend: Node.js + Express.js
-Database: (Specify here — MongoDB)
+1. Frontend: React.js + Tailwind CSS
+2. Backend: Node.js + Express.js
+3. Database: (Specify here — MongoDB)
 
 ---
 
